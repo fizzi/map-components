@@ -20,7 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "ol3": "openlayers/ol3#v3.0.0",
+    "ol3": "openlayers/ol3#v3.12.1",
     "polymer": "Polymer/polymer#1.2.3"
   }
 }
