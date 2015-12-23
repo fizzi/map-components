@@ -6,7 +6,7 @@
     "Oliver Roick <oliver.roick@gmail.com>"
   ],
   "description": "An OpenLayers3 web component",
-  "main": "src/index.html",
+  "main": "src/ol3-map.html",
   "moduleType": [
     "globals"
   ],
