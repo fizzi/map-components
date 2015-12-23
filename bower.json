@@ -21,6 +21,6 @@
   ],
   "dependencies": {
     "ol3": "openlayers/ol3#v3.0.0",
-    "polymer": "Polymer/polymer#~0.4.2"
+    "polymer": "Polymer/polymer#~1.2"
   }
 }
